@@ -1,6 +1,12 @@
 # FE-Todo (TESTIFY 앱 구현)
 
-## 요구사항 분석 및 작업 목록 정리
+## ⚙️ 사용 기술
+
+#### HTML, CSS, Vanila JS, Webpack (+Flux 패턴 적용)
+
+<br/>
+
+## 📃 요구사항 분석 및 작업 목록 정리
 
 ### 메인 UI 구현
 
